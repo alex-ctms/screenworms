@@ -1,0 +1,5 @@
+native/bin/
+*.log
+*.png
+!docs/*.png
+.vs/
